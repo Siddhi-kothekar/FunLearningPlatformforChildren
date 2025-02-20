@@ -1,4 +1,5 @@
-# 🧠 Fun Learning Platform for Children  
+# 🧠 MoodSphere
+
 ## 💡 Key Features  
 1. **Mood Tracker**  
    - Log daily moods using an emoji-based interface.  
