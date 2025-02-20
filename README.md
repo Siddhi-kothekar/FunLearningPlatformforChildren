@@ -1,8 +1,4 @@
-# 🧠 Mental Health Tracking System for Children  
-
-## 🌟 Overview  
-This **Mental Health Tracking System** is a comprehensive platform designed to monitor and enhance the mental well-being of children. By combining technology with therapeutic tools, it helps children express their emotions, track their moods, and engage in activities that support positive mental health.  
-
+# 🧠 Fun Learning Platform for Children  
 ## 💡 Key Features  
 1. **Mood Tracker**  
    - Log daily moods using an emoji-based interface.  
@@ -30,5 +26,5 @@ This **Mental Health Tracking System** is a comprehensive platform designed to m
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB  
 - **Sentiment Analysis:** Python, VADER Sentiment Analysis Library  
-- **Graphs and Visualizations:** Chart.js  
+
 
